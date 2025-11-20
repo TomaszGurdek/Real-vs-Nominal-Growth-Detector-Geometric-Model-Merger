@@ -1,4 +1,4 @@
-# Real-vs-Nominal Growth Detector + Geometric Model Merger   
+# Real-vs-Nominal Growth Detector + Geometric Model Merger     https://x.com/i/grok/share/jYKhUEmHP0bQY4uKT1aiWHESo
 19 November 2025
 
 Two small, closed-form tools created by Tomasz Gurdek in a single 2-hour conversation with Grok (xAI).
@@ -26,4 +26,6 @@ MIT License © 2025 Tomasz Gurdek
 Use anywhere, modify, commercialise – just keep this notice.
 
 Thank you for trying them. Feedback welcome.
+
+https://x.com/i/grok/share/jYKhUEmHP0bQY4uKT1aiWHESo
 
