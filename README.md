@@ -1,5 +1,7 @@
 ### Gratitude & Academic Foundation – 21 November 2025
 
+The entire **GeoMetric** library and every line of code, benchmark, name, and commercial strategy were created **exclusively by Tomasz Gurdek** using **xAI Grok solely as a programming co-pilot tool** during the conversation from 19–22 November 2025.
+
 I am deeply grateful to Prof. Frank Nielsen for his publicly available and inspiring academic work and posts on information geometry, M-mixtures, and Bregman divergences.  
 These open scientific contributions directly inspired my questions and made it possible to create this practical code for real-world products and services (economic analysis tools and fast model merging).
 
