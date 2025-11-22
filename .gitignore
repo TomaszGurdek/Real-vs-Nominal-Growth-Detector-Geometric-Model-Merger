@@ -23,11 +23,16 @@ GeoMetric-commercial.zip
 *.env
 *.log
 
-# Standard exclusions (temporary files, IDE, virtual environments)
+# Standard Python / development exclusions
 __pycache__/
-*.pyc
+*.py[cod]
+*$py.class
+*.so
 .venv/
 env/
+venv/
+ENV/
+.env
 .idea/
 .vscode/
 .DS_Store
