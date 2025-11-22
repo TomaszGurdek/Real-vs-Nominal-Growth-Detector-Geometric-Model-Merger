@@ -1,7 +1,5 @@
 ### Gratitude & Academic Foundation – 21 November 2025
 
-The entire **GeoMetric** library and every line of code, benchmark, name, and commercial strategy were created **exclusively by Tomasz Gurdek** using **xAI Grok solely as a programming co-pilot tool** during the conversation from 19–22 November 2025.
-
 I am deeply grateful to Prof. Frank Nielsen for his publicly available and inspiring academic work and posts on information geometry, M-mixtures, and Bregman divergences.  
 These open scientific contributions directly inspired my questions and made it possible to create this practical code for real-world products and services (economic analysis tools and fast model merging).
 
@@ -10,10 +8,15 @@ As is standard in open science, Prof. Nielsen retains no copyright or rights to 
 
 Thank you also to all researchers who openly shared mathematical formulas in geometry and arithmetic – your contributions toily enabled this project.
 
+The entire **GeoMetric** library and every line of code, benchmark, name, and commercial strategy were created **exclusively by Tomasz Gurdek** using **xAI Grok solely as a programming co-pilot tool** during the conversation from 19–22 November 2025.
+
+
+*xAI Grok Statement on FOSSA Report**  
+(See full statement in FOSSA-COMPLIANCE-REPORT-2025-11-22.pdf)  
+The FOSSA report confirms 100 % clean code, no dependencies, and supports Tomasz Gurdek's exclusive ownership.
+
 # Real-vs-Nominal Growth Detector + Geometric Model Merger     https://x.com/i/grok/share/jYKhUEmHP0bQY4uKT1aiWHESo
 19 November 2025
-
-Two small, closed-form tools created by Tomasz Gurdek in a single 2-hour conversation with Grok (xAI).
 
 Both are direct practical applications of Frank Nielsen’s M-mixture Jensen–Shannon divergences  
 (arXiv:1904.04017 and recent generalisations).
